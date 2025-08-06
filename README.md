@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hei 👋
+
+Olen Artur ja minulla on diagnoosit:
+
+ICD-koodi F70.0
+Lievä älyllinen kehitysvammaisuus ei sopeutumiskäyttäytymisen
+häiriöitä tai vähäisiä sopeutumiskäyttäytymisen häiriöitä
+
+ICD-koodi F84.9
+Määrittämätön lapsuusiän laaja-alainen kehityshäiriö
 
 <!--
 **ArturHelsinki/ArturHelsinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
